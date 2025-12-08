@@ -1,0 +1,36 @@
+.banner-title > .word {
+    padding-right:10px;
+}
+
+.word .letter:last-child{
+padding-bottom: 10px;
+}
+
+.bio-title{
+    margin-left: 5px;
+}
+
+.experience-detail{
+    text-align: justify;
+}
+
+.image-holder{
+    height: 230px;
+    align-content: center;
+}
+
+#img-odoo{
+    margin-top:18px;
+}
+
+#img-crm{
+    max-height: 180px;
+  max-width: 220px;
+  margin-left: 30px;
+}
+
+#img-ziwaka{
+    max-height:160px;
+    margin-left:5px;
+    margin-top:19px;
+}
